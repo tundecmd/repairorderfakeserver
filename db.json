@@ -1,0 +1,329 @@
+{
+  "jobDetails": [
+    {
+      "id": 1,
+      "jobDetails": "Engine",
+      "partNo": "23767464HJ",
+      "quantity": 4,
+      "results": "Pending"
+    },
+    {
+      "id": 2,
+      "jobDetails": "Car Seat",
+      "partNo": "23767448DF",
+      "quantity": 6,
+      "results": ""
+    },
+    {
+      "id": 3,
+      "jobDetails": "Side Door",
+      "partNo": "23767878MN",
+      "quantity": 2,
+      "results": ""
+    },
+    {
+      "id": 4,
+      "jobDetails": "Carborator",
+      "partNo": "23767421BN",
+      "quantity": 8,
+      "results": ""
+    },
+    {
+      "id": 5,
+      "jobDetails": "Tyre",
+      "partNo": "78773674UI",
+      "quantity": "6"
+    },
+    {
+      "id": 6,
+      "jobDetails": "wheel",
+      "partNo": "98187899WJ",
+      "quantity": "4"
+    },
+    {
+      "jobDetails": "Suspension",
+      "partNo": "44132134AS",
+      "quantity": "10",
+      "results": "",
+      "id": 7
+    },
+    {
+      "jobDetails": "Fuel tank",
+      "partNo": "23233454FT",
+      "quantity": "11",
+      "results": "",
+      "id": 8
+    },
+    {
+      "jobDetails": "Tyre",
+      "partNo": "353335335HJ",
+      "quantity": "3",
+      "results": "Good",
+      "id": 9
+    }
+  ],
+  "codt": [
+    {
+      "id": 1,
+      "additionalJobs": "Car Service",
+      "necessaryPartNo": "594494430IK",
+      "quantity": 6,
+      "stock": "",
+      "eta": "2021-02-20T20:45:00.000Z"
+    },
+    {
+      "id": 2,
+      "additionalJobs": "Car Wash",
+      "necessaryPartNo": "594494430IK",
+      "quantity": 6,
+      "stock": "",
+      "eta": "2019-02-19T06:00:00Z"
+    },
+    {
+      "id": 3,
+      "additionalJobs": "Car Fuel Haulage",
+      "necessaryPartNo": "594494430IK",
+      "quantity": 6,
+      "stock": "",
+      "eta": "2019-02-19T06:00:00Z"
+    }
+  ],
+  "engineCompartment": [
+    {
+      "id": 0,
+      "engineCompartment": "Engine oil Level",
+      "okay": "true",
+      "remark": "Good "
+    },
+    {
+      "id": 1,
+      "engineCompartment": "Coolant Level",
+      "okay": false,
+      "remark": "Working perfect"
+    },
+    {
+      "id": 2,
+      "engineCompartment": "Brake oil Level",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 3,
+      "engineCompartment": "Power steering oil Level",
+      "okay": "true",
+      "remark": "Good"
+    },
+    {
+      "id": 4,
+      "engineCompartment": "PDCC oil Level",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 5,
+      "engineCompartment": "Drive Belt",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 6,
+      "engineCompartment": "Fuel line and Coolant hose",
+      "okay": "true",
+      "remark": "Excellent job"
+    },
+    {
+      "id": 7,
+      "engineCompartment": "Windshild Washer Water",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 8,
+      "engineCompartment": "Wiper Blades",
+      "okay": false,
+      "remark": "Well Satisfied"
+    }
+  ],
+  "exteriorCheckList": [
+    {
+      "id": 0,
+      "exterior": "Exterior Lamps",
+      "okay": "true",
+      "remark": "Good "
+    },
+    {
+      "id": 1,
+      "exterior": "Door setting",
+      "okay": false,
+      "remark": "Working perfect"
+    },
+    {
+      "id": 2,
+      "exterior": "ORVM Adjustment",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 3,
+      "exterior": "Body Damage",
+      "okay": "true",
+      "remark": "Good"
+    },
+    {
+      "id": 4,
+      "exterior": "Brake pad",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 5,
+      "exterior": "Rear Lid operation",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 6,
+      "exterior": "Wheel torque",
+      "okay": "true",
+      "remark": "Excellent job"
+    },
+    {
+      "id": 7,
+      "exterior": "Tyre Condition",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 8,
+      "exterior": "Tyre Pressure",
+      "okay": false,
+      "remark": "Well Satisfied"
+    },
+    {
+      "id": 9,
+      "exterior": "Spare Wheel",
+      "okay": false,
+      "remark": "Well Satisfied"
+    }
+  ],
+  "interiorCheckList": [
+    {
+      "id": 0,
+      "interior": "Interior Lamps",
+      "okay": "true",
+      "remark": "Good "
+    },
+    {
+      "id": 1,
+      "interior": "Clock time",
+      "okay": false,
+      "remark": "Working perfect"
+    },
+    {
+      "id": 2,
+      "interior": "ORVM Adjustment",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 3,
+      "interior": "PCM operation",
+      "okay": "true",
+      "remark": "Good"
+    },
+    {
+      "id": 4,
+      "interior": "Seat belt",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 5,
+      "interior": "Seat operation",
+      "okay": "true",
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 6,
+      "interior": "Sunvisor",
+      "okay": "true",
+      "remark": "Excellent job"
+    },
+    {
+      "id": 7,
+      "interior": "Wiper operation",
+      "okay": false,
+      "remark": "Not Satisfied"
+    },
+    {
+      "id": 8,
+      "interior": "Power window operation",
+      "okay": false,
+      "remark": "Well Satisfied"
+    },
+    {
+      "id": 9,
+      "interior": "Sunblider operation",
+      "okay": false,
+      "remark": "Well Satisfied"
+    },
+    {
+      "id": 10,
+      "interior": "Seat memory",
+      "okay": false,
+      "remark": "Well Satisfied"
+    }
+  ],
+  "expectedVehicles": [
+    {
+      "id": 0,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "id": 1,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    }
+  ],
+  "receivedVehicles": [
+    {
+      "id": 0,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "id": 1,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "regNo": "34344746GJ",
+      "modelName": "Toyota Avensis",
+      "customerName": "Jacob Sims",
+      "timeExpected": "2021-02-20T20:45:00.000Z",
+      "status": "Pending"
+    }
+  ]
+}
